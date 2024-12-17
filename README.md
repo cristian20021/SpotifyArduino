@@ -1,7 +1,7 @@
 # SpotifyArduino
 
 
-This project redefine the music experience by integrating a voice recognition system, NFC reader, and a rotary potentiometer with Arduino to control Spotify playback. Users can play songs, albums, and playlists, as well as adjusting the volume, all through voice commands or hardwares.
+This project redefines the music experience by integrating a voice recognition system, NFC reader, and a rotary potentiometer with Arduino to control Spotify playback. Users can play songs, albums, and playlists, as well as adjust the volume, all through voice commands or hardware components.
 [![Watch the video](https://github.com/user-attachments/assets/437488be-01d5-43bf-aa19-7f6fc41ab4fa)](https://youtu.be/FsM7y3w8bAo)
 
 ### [Watch the final renders on YouTube]([https://youtu.be/0EDKDWhR2Do](https://youtu.be/FsM7y3w8bAo))
