@@ -81,7 +81,7 @@ Arduino & C++ Configuration
 ### How to Run
 
 ```bash
-    python main.py
+    python spotify_oauth.py
 ```
 ## Sample Commands
 
